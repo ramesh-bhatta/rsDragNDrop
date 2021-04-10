@@ -1,5 +1,5 @@
 {
-  "name": "rsDragNDrop",
+  "name": "rstech_dnd",
   "version": "1.0.0",
   "description": "This is the plugin to make drag and drop in core javascript",
   "main": "index.js",
