@@ -1,0 +1,9 @@
+{
+  "name": "rsDragNDrop",
+  "version": "1.0.0",
+  "description": "This is the plugin to make drag and drop in core javascript",
+  "main": "index.js",
+  "repository": "https://github.com/ramesh-bhatta/rsDragNDrop.git",
+  "author": "Ramesh Bhatta <ramesh.paig@outlook.com>",
+  "license": "MIT"
+}
